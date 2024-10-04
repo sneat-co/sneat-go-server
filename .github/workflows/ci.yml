@@ -1,0 +1,36 @@
+name: Go CI
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v[0-9]+\.[0-9]+\.[0-9]+' # Push events to matching v*, i.e. v20.15.10
+    paths:
+      - '.github/workflows/**.yml'
+      - 'src/**'
+      - 'go.*'
+      - '*.go'
+  pull_request:
+    branches:
+      - '**'
+    paths:
+      - '.github/workflows/**.yml'
+      - 'src/**'
+      - 'scripts/**'
+      - '../../../sneat-go-server/firebase/**'
+      - 'go.*'
+      - '*.go'
+
+jobs:
+
+  strongo_workflow:
+    permissions:
+      contents: write
+    uses: strongo/go-ci-action/.github/workflows/workflow.yml@main
+
+    secrets:
+      #      gh_token: ${{ secrets.GITHUB_TOKEN }}
+      gh_token: ${{ secrets.GH_PAT_READWRITE_REPOS }}
+    with:
+      GOPRIVATE: 'github.com/sneat-co'
