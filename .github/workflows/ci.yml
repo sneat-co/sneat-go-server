@@ -9,6 +9,7 @@ on:
     paths:
       - 'go.*'
       - '*.sh'
+      - 'action.yml'
       - '**/*.go'
       - 'scripts/**'
       - '.github/**'
@@ -18,6 +19,7 @@ on:
     paths:
       - 'go.*'
       - '*.sh'
+      - 'action.yml'
       - '**/*.go'
       - 'scripts/**'
       - '.github/**'
