@@ -34,7 +34,6 @@ jobs:
 
     with:
       disable-version-bumping: true
-#      GOPRIVATE: 'github.com/sneat-co'
 
   verify_action:
     runs-on: ubuntu-latest
