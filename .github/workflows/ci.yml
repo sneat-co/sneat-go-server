@@ -30,7 +30,9 @@ jobs:
     uses: strongo/go-ci-action/.github/workflows/workflow.yml@main
 
     secrets:
-      #      gh_token: ${{ secrets.GITHUB_TOKEN }}
-      gh_token: ${{ secrets.GH_PAT_READWRITE_REPOS }}
+      gh_token: ${{ secrets.GITHUB_TOKEN }}
+#      gh_token: ${{ secrets.GH_PAT_READWRITE_REPOS }}
+
     with:
-      GOPRIVATE: 'github.com/sneat-co'
+      disable-version-bumping: true
+#      GOPRIVATE: 'github.com/sneat-co'
