@@ -35,3 +35,13 @@ jobs:
     with:
       disable-version-bumping: true
 #      GOPRIVATE: 'github.com/sneat-co'
+
+  verify_action:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run action.yml
+        uses: ./
