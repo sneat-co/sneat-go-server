@@ -11,7 +11,7 @@ on:
       - '*.sh'
       - '**/*.go'
       - 'scripts/**'
-      - '.github/workflows/*.yml'
+      - '.github/**'
   pull_request:
     branches:
       - '**'
@@ -20,7 +20,7 @@ on:
       - '*.sh'
       - '**/*.go'
       - 'scripts/**'
-      - '.github/workflows/*.yml'
+      - '.github/**'
 
 jobs:
 
