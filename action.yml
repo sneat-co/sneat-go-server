@@ -10,9 +10,9 @@ runs:
 
     - name: Install GoLang
       uses: actions/setup-go@v5
-#      with:
+      with:
+        cache: true
         #        go-version: 1.23.2
-#        cache: true
 #        cache-dependency-path: "**/*.sum"
 
 
