@@ -10,17 +10,19 @@ runs:
 
     - name: Install GoLang
       uses: actions/setup-go@v5
-      with:
+#      with:
         #        go-version: 1.23.2
-        cache: true
-        cache-dependency-path: "**/*.sum"
+#        cache: true
+#        cache-dependency-path: "**/*.sum"
 
 
     - name: Serve sneat-go-server
       shell: bash
       working-directory: "${{ github.action_path }}"
 #      run: ./serve_gae.sh
-      run: ./serve_gae.sh & sleep 10
+      run: |
+        ./serve_gae.sh &
+        sleep 10
 
     - name: "Check if sneat-go-server is running"
       shell: sh
