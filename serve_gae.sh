@@ -1,3 +1,4 @@
+echo "Starting local GAE server..."
 export GCLOUD_PROJECT="demo-local-sneat-app"
 export FIREBASE_AUTH_EMULATOR_HOST="localhost:9099"
 export FIRESTORE_EMULATOR_HOST="localhost:8080"

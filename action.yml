@@ -19,7 +19,8 @@ runs:
     - name: Serve sneat-go-server
       shell: bash
       working-directory: "${{ github.action_path }}"
-      run: ./serve_gae.sh & sleep 10
+      run: ./serve_gae.sh
+#      run: ./serve_gae.sh & sleep 10
 
     - name: "Check if sneat-go-server is running"
       shell: sh
