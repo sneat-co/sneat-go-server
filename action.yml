@@ -16,6 +16,12 @@ runs:
 #        cache-dependency-path: "**/*.sum"
 
 
+    - run: go get ./...
+      shell: bash
+
+    - run: go build ./...
+      shell: bash
+
     - name: Serve sneat-go-server
       shell: bash
       working-directory: "${{ github.action_path }}"
