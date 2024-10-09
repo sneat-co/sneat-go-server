@@ -2,11 +2,11 @@ module github.com/sneat-co/sneat-go-server
 
 go 1.23.2
 
-// replace github.com/sneat-co/sneat-go-backend => ../sneat-go-backend
+//replace github.com/sneat-co/sneat-go-backend => ../sneat-go-backend
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.15.1
+	github.com/sneat-co/sneat-core-modules v0.15.2
 	github.com/sneat-co/sneat-go-backend v0.54.0
 	github.com/sneat-co/sneat-go-core v0.37.1
 	github.com/sneat-co/sneat-go-firebase v0.6.2
