@@ -146,8 +146,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7 h1:xoIK0ctDddBMnc74udxJYBqlo9Ylnsp1waqjLsnef20=
 github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7/go.mod h1:YARuvh7BUWHNhzDq2OM5tzR2RiCcN2D7sapiKyCel/M=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
-github.com/sneat-co/sneat-core-modules v0.15.4 h1:ffBtCPnCVHTh6E4IOI4CMVCiOhqXl9+CFq1rY95AIGs=
-github.com/sneat-co/sneat-core-modules v0.15.4/go.mod h1:OAJ/F3+ce44UhGCOXE8FHjHM/ran8MwCM09s6hqKpRk=
+github.com/sneat-co/sneat-core-modules v0.15.5 h1:SNhoDJ5lcH00O1d/C89SNAFcLpBFAv0z3OB5PieLi8A=
+github.com/sneat-co/sneat-core-modules v0.15.5/go.mod h1:OAJ/F3+ce44UhGCOXE8FHjHM/ran8MwCM09s6hqKpRk=
 github.com/sneat-co/sneat-go-backend v0.54.8 h1:aX3yAUNwPWAo9wmGF8H9hvOvGGfn77BSbhrj+AXgxCM=
 github.com/sneat-co/sneat-go-backend v0.54.8/go.mod h1:EpnWS2SjuJg8vj6mhG2tZbVGFCl07Fzftfb06G5/oPo=
 github.com/sneat-co/sneat-go-core v0.37.2 h1:U+oCjqMlyzh8J++ytN/q6gSIYvgmJhMJGg2AR6Qmwek=
