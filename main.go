@@ -3,6 +3,7 @@ package main
 import (
 	"github.com/julienschmidt/httprouter"
 	"github.com/sneat-co/sneat-go-backend/src/sneatgae/sneatgaeapp"
+	"github.com/sneat-co/sneat-go-core/emails"
 	"github.com/sneat-co/sneat-go-core/emails/email2writer"
 	"github.com/sneat-co/sneat-go-core/security"
 	"github.com/sneat-co/sneat-go-server/firebase4sneat"
@@ -15,7 +16,11 @@ import (
 )
 
 func main() { // TODO: document why we need this wrapper
+	httpRouter, emailClient := initMain()
+	sneatgaeapp.Start(nil, nil, httpRouter, emailClient)
+}
 
+func initMain() (*httprouter.Router, emails.Client) {
 	logus.AddLogEntryHandler(logus.NewStandardGoLogger())
 
 	knownHosts := os.Getenv("KNOWN_HOSTS")
@@ -35,7 +40,7 @@ func main() { // TODO: document why we need this wrapper
 
 	delaying.Init(delaying.VoidWithLog)
 
-	sneatgaeapp.Start(nil, nil, httpRouter, emailClient)
+	return httpRouter, emailClient
 }
 
 func serveStaticFiles(httpRouter *httprouter.Router) {

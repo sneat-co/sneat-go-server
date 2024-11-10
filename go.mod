@@ -10,6 +10,7 @@ require (
 	github.com/sneat-co/sneat-go-backend v0.54.8
 	github.com/sneat-co/sneat-go-core v0.37.2
 	github.com/sneat-co/sneat-go-firebase v0.7.6
+	github.com/stretchr/testify v1.9.0
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.0
 )
@@ -44,6 +45,7 @@ require (
 	github.com/crediterra/money v0.3.0 // indirect
 	github.com/dal-go/dalgo v0.14.0 // indirect
 	github.com/dal-go/dalgo2firestore v0.2.14 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/envoyproxy/go-control-plane v0.13.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.1.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
@@ -61,6 +63,7 @@ require (
 	github.com/gosimple/unidecode v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7 // indirect
 	github.com/strongo/decimal v0.1.1 // indirect
 	github.com/strongo/facebook v1.8.1 // indirect
@@ -95,4 +98,5 @@ require (
 	google.golang.org/grpc v1.68.0 // indirect
 	google.golang.org/grpc/stats/opentelemetry v0.0.0-20241028142157-ada6787961b3 // indirect
 	google.golang.org/protobuf v1.35.1 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
