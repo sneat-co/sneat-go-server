@@ -8,8 +8,8 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sneat-co/sneat-core-modules v0.15.8
 	github.com/sneat-co/sneat-go-backend v0.54.10
-	github.com/sneat-co/sneat-go-core v0.37.2
-	github.com/sneat-co/sneat-go-firebase v0.7.8
+	github.com/sneat-co/sneat-go-core v0.37.3
+	github.com/sneat-co/sneat-go-firebase v0.7.9
 	github.com/stretchr/testify v1.10.0
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.0
@@ -43,8 +43,8 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cncf/xds/go v0.0.0-20240905190251-b4127c9b8d78 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
-	github.com/dal-go/dalgo v0.14.0 // indirect
-	github.com/dal-go/dalgo2firestore v0.2.16 // indirect
+	github.com/dal-go/dalgo v0.14.1 // indirect
+	github.com/dal-go/dalgo2firestore v0.2.17 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/envoyproxy/go-control-plane v0.13.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.1.0 // indirect
@@ -70,8 +70,8 @@ require (
 	github.com/strongo/gamp v0.0.1 // indirect
 	github.com/strongo/i18n v0.6.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
-	github.com/strongo/slice v0.3.0 // indirect
-	github.com/strongo/strongoapp v0.25.2 // indirect
+	github.com/strongo/slice v0.3.1 // indirect
+	github.com/strongo/strongoapp v0.25.3 // indirect
 	github.com/strongo/validation v0.0.7 // indirect
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
@@ -90,7 +90,7 @@ require (
 	golang.org/x/sys v0.27.0 // indirect
 	golang.org/x/text v0.20.0 // indirect
 	golang.org/x/time v0.8.0 // indirect
-	google.golang.org/api v0.207.0 // indirect
+	google.golang.org/api v0.209.0 // indirect
 	google.golang.org/appengine/v2 v2.0.6 // indirect
 	google.golang.org/genproto v0.0.0-20241113202542-65e8d215514f // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20241113202542-65e8d215514f // indirect
