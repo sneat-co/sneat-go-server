@@ -8,8 +8,8 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sneat-co/sneat-core-modules v0.15.8
 	github.com/sneat-co/sneat-go-backend v0.54.10
-	github.com/sneat-co/sneat-go-core v0.37.3
-	github.com/sneat-co/sneat-go-firebase v0.7.9
+	github.com/sneat-co/sneat-go-core v0.37.4
+	github.com/sneat-co/sneat-go-firebase v0.7.10
 	github.com/stretchr/testify v1.10.0
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.0
@@ -44,7 +44,7 @@ require (
 	github.com/cncf/xds/go v0.0.0-20240905190251-b4127c9b8d78 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
 	github.com/dal-go/dalgo v0.14.1 // indirect
-	github.com/dal-go/dalgo2firestore v0.2.17 // indirect
+	github.com/dal-go/dalgo2firestore v0.2.18 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/envoyproxy/go-control-plane v0.13.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.1.0 // indirect
@@ -71,7 +71,7 @@ require (
 	github.com/strongo/i18n v0.6.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
 	github.com/strongo/slice v0.3.1 // indirect
-	github.com/strongo/strongoapp v0.25.3 // indirect
+	github.com/strongo/strongoapp v0.25.4 // indirect
 	github.com/strongo/validation v0.0.7 // indirect
 	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
