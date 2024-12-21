@@ -6,10 +6,10 @@ go 1.23.2
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.15.11
-	github.com/sneat-co/sneat-go-backend v0.54.14
+	github.com/sneat-co/sneat-core-modules v0.15.12
+	github.com/sneat-co/sneat-go-backend v0.54.15
 	github.com/sneat-co/sneat-go-core v0.37.4
-	github.com/sneat-co/sneat-go-firebase v0.7.13
+	github.com/sneat-co/sneat-go-firebase v0.7.14
 	github.com/stretchr/testify v1.10.0
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.0
