@@ -105,6 +105,8 @@ github.com/googleapis/gax-go/v2 v2.14.1 h1:hb0FFeiPaQskmvakKu5EbCbpntQn48jyHuvrk
 github.com/googleapis/gax-go/v2 v2.14.1/go.mod h1:Hb/NubMaVM88SrNkvl8X/o8XWwDJEPqouaLeN2IUxoA=
 github.com/gosimple/slug v1.14.0 h1:RtTL/71mJNDfpUbCOmnf/XFkzKRtD6wL6Uy+3akm4Es=
 github.com/gosimple/slug v1.14.0/go.mod h1:UiRaFH+GEilHstLUmcBgWcI42viBN7mAb818JrYOeFQ=
+github.com/gosimple/slug v1.15.0 h1:wRZHsRrRcs6b0XnxMUBM6WK1U1Vg5B0R7VkIf1Xzobo=
+github.com/gosimple/slug v1.15.0/go.mod h1:UiRaFH+GEilHstLUmcBgWcI42viBN7mAb818JrYOeFQ=
 github.com/gosimple/unidecode v1.0.1 h1:hZzFTMMqSswvf0LBJZCZgThIZrpDHFXux9KeGmn6T/o=
 github.com/gosimple/unidecode v1.0.1/go.mod h1:CP0Cr1Y1kogOtx0bJblKzsVWrqYaqfNOnHzpgWw4Awc=
 github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
@@ -125,6 +127,8 @@ github.com/rogpeppe/go-internal v1.13.1 h1:KvO1DLK/DRN07sQ1LQKScxyZJuNnedQ5/wKSR
 github.com/rogpeppe/go-internal v1.13.1/go.mod h1:uMEvuHeurkdAXX61udpOXGD/AzZDWNMNyH2VO9fmH0o=
 github.com/sneat-co/sneat-core-modules v0.15.12 h1:Xv1TX6f65/WQIQPIVLU1BYUNPkw2PbPDjG1hTtEZyVw=
 github.com/sneat-co/sneat-core-modules v0.15.12/go.mod h1:CmLaJ6kb9hSUaFvksnBHV5Xu2VKsgM+F/t7K3GNKNXI=
+github.com/sneat-co/sneat-core-modules v0.15.13 h1:5IWTalw48fs9aRp5vePClsPzjutXwrcjl1R0DIyUlBM=
+github.com/sneat-co/sneat-core-modules v0.15.13/go.mod h1:X60+zNaDlbAskrYV1l0/Ij580p4w9b9ngq9RMAMtoIM=
 github.com/sneat-co/sneat-go-backend v0.54.15 h1:qDY+aK8TJuQBY9yqE4pJLdZlGAIhtl3mymTqD0B3WS0=
 github.com/sneat-co/sneat-go-backend v0.54.15/go.mod h1:USKi2cpxEAcN54Xz8Y7gKwsPUeywZvwxS2KOVr7TYVI=
 github.com/sneat-co/sneat-go-core v0.37.4 h1:DihMq1MtBUQ23gvO21dNmWzYVo/ygoNxXGbtF3ed7Tw=
