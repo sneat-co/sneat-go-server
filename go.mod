@@ -7,8 +7,8 @@ go 1.23.2
 require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sneat-co/sneat-core-modules v0.15.14
-	github.com/sneat-co/sneat-go-backend v0.54.17
-	github.com/sneat-co/sneat-go-core v0.37.4
+	github.com/sneat-co/sneat-go-backend v0.54.18
+	github.com/sneat-co/sneat-go-core v0.38.1
 	github.com/sneat-co/sneat-go-firebase v0.7.17
 	github.com/stretchr/testify v1.10.0
 	github.com/strongo/delaying v0.1.0
@@ -42,7 +42,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cncf/xds/go v0.0.0-20241223141626-cff3c89139a3 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
-	github.com/dal-go/dalgo v0.14.1 // indirect
+	github.com/dal-go/dalgo v0.14.2 // indirect
 	github.com/dal-go/dalgo2firestore v0.2.23 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.32.3 // indirect

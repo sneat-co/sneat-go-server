@@ -58,6 +58,8 @@ github.com/crediterra/money v0.3.0 h1:dHWEZhkMGGxkHTAbGQOaeg8eYbL8qJSCgcqdOTbNg2
 github.com/crediterra/money v0.3.0/go.mod h1:0BT7dzPk4Wv+Wi8J6sxlFbCknYioLWVVQM4ciMJh6TI=
 github.com/dal-go/dalgo v0.14.1 h1:AMSPsFjFH4iZ1JegHdBeouzpZ4frsLnsHxBSaV+8Wgs=
 github.com/dal-go/dalgo v0.14.1/go.mod h1:BoMNGwDE9FdjynV7xCn5f/GdVJxvfePwjsMldn+BhqA=
+github.com/dal-go/dalgo v0.14.2 h1:e7T9D2Hiv9ryMWTdJd9OmnM2ilfsX3dxQOU6wbskDqc=
+github.com/dal-go/dalgo v0.14.2/go.mod h1:BoMNGwDE9FdjynV7xCn5f/GdVJxvfePwjsMldn+BhqA=
 github.com/dal-go/dalgo2firestore v0.2.23 h1:aArfCvhNDnXgRmp9fFiBRxFTl40HpF+QVEw4yhEMbCc=
 github.com/dal-go/dalgo2firestore v0.2.23/go.mod h1:sYsOtFDmUkopWctWVMYMaB8nCLSCXZZxjTn1Bp+PBT8=
 github.com/dal-go/mocks4dalgo v0.1.27 h1:8ASqFtDsDOhDp0eN3xaa0oYsA0jZ/qIYBeaZCR3AKns=
@@ -129,8 +131,10 @@ github.com/sneat-co/sneat-core-modules v0.15.14 h1:G0T8/nLIXJGoKWDS47toJk+omaO8C
 github.com/sneat-co/sneat-core-modules v0.15.14/go.mod h1:mZndTQGpS4ELAJGp7gm8LwVoZSkrTseimMHtIPmrfro=
 github.com/sneat-co/sneat-go-backend v0.54.17 h1:Zr5tUyqUd9h2c55Wqw4zNQDENNqp0NBiezrUL3xTtFY=
 github.com/sneat-co/sneat-go-backend v0.54.17/go.mod h1:O/4FceSvx4qyyaB7067aOIU9w5OjaZ56kSWY+2gBncg=
-github.com/sneat-co/sneat-go-core v0.37.4 h1:DihMq1MtBUQ23gvO21dNmWzYVo/ygoNxXGbtF3ed7Tw=
-github.com/sneat-co/sneat-go-core v0.37.4/go.mod h1:e3fJ3mVQv9jBnn3+rUR5vc1TNLbsWMmRDhCOcbl9Yts=
+github.com/sneat-co/sneat-go-backend v0.54.18 h1:G2vwgug53ZO+xp6tLDSxNDCo7rhp81JCod6N7vGu3tk=
+github.com/sneat-co/sneat-go-backend v0.54.18/go.mod h1:neN6kH6pCv8rycUdDDS7V50jelJkMMWUpZs2SoBeJgc=
+github.com/sneat-co/sneat-go-core v0.38.1 h1:rb3rOZVYGbw+AOx8H53y0lZVdaGW8P5sFB21ZV7i0us=
+github.com/sneat-co/sneat-go-core v0.38.1/go.mod h1:e3fJ3mVQv9jBnn3+rUR5vc1TNLbsWMmRDhCOcbl9Yts=
 github.com/sneat-co/sneat-go-firebase v0.7.17 h1:iON8TNEtPQIeu1Cnd1ODK0dTmm7kPaQU5FbbHAiGlwY=
 github.com/sneat-co/sneat-go-firebase v0.7.17/go.mod h1:rOcaxYmVvfb1tCdzXV1dz6Bbd/G22NZjsYtceD+rsOc=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
