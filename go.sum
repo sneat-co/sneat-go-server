@@ -56,8 +56,6 @@ github.com/cncf/xds/go v0.0.0-20241223141626-cff3c89139a3 h1:boJj011Hh+874zpIySe
 github.com/cncf/xds/go v0.0.0-20241223141626-cff3c89139a3/go.mod h1:W+zGtBO5Y1IgJhy4+A9GOqVhqLpfZi+vwmdNXUehLA8=
 github.com/crediterra/money v0.3.0 h1:dHWEZhkMGGxkHTAbGQOaeg8eYbL8qJSCgcqdOTbNg20=
 github.com/crediterra/money v0.3.0/go.mod h1:0BT7dzPk4Wv+Wi8J6sxlFbCknYioLWVVQM4ciMJh6TI=
-github.com/dal-go/dalgo v0.14.1 h1:AMSPsFjFH4iZ1JegHdBeouzpZ4frsLnsHxBSaV+8Wgs=
-github.com/dal-go/dalgo v0.14.1/go.mod h1:BoMNGwDE9FdjynV7xCn5f/GdVJxvfePwjsMldn+BhqA=
 github.com/dal-go/dalgo v0.14.2 h1:e7T9D2Hiv9ryMWTdJd9OmnM2ilfsX3dxQOU6wbskDqc=
 github.com/dal-go/dalgo v0.14.2/go.mod h1:BoMNGwDE9FdjynV7xCn5f/GdVJxvfePwjsMldn+BhqA=
 github.com/dal-go/dalgo2firestore v0.2.23 h1:aArfCvhNDnXgRmp9fFiBRxFTl40HpF+QVEw4yhEMbCc=
@@ -129,8 +127,6 @@ github.com/rogpeppe/go-internal v1.13.1 h1:KvO1DLK/DRN07sQ1LQKScxyZJuNnedQ5/wKSR
 github.com/rogpeppe/go-internal v1.13.1/go.mod h1:uMEvuHeurkdAXX61udpOXGD/AzZDWNMNyH2VO9fmH0o=
 github.com/sneat-co/sneat-core-modules v0.15.14 h1:G0T8/nLIXJGoKWDS47toJk+omaO8C3PId1JvXe/9nt0=
 github.com/sneat-co/sneat-core-modules v0.15.14/go.mod h1:mZndTQGpS4ELAJGp7gm8LwVoZSkrTseimMHtIPmrfro=
-github.com/sneat-co/sneat-go-backend v0.54.17 h1:Zr5tUyqUd9h2c55Wqw4zNQDENNqp0NBiezrUL3xTtFY=
-github.com/sneat-co/sneat-go-backend v0.54.17/go.mod h1:O/4FceSvx4qyyaB7067aOIU9w5OjaZ56kSWY+2gBncg=
 github.com/sneat-co/sneat-go-backend v0.54.18 h1:G2vwgug53ZO+xp6tLDSxNDCo7rhp81JCod6N7vGu3tk=
 github.com/sneat-co/sneat-go-backend v0.54.18/go.mod h1:neN6kH6pCv8rycUdDDS7V50jelJkMMWUpZs2SoBeJgc=
 github.com/sneat-co/sneat-go-core v0.38.1 h1:rb3rOZVYGbw+AOx8H53y0lZVdaGW8P5sFB21ZV7i0us=
