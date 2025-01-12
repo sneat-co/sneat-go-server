@@ -36,7 +36,7 @@ jobs:
     #      gh_token: ${{ secrets.GH_PAT_READWRITE_REPOS }}
 
     with:
-      disable-version-bumping: true
+      disable-version-bumping: false
 
   verify_action:
     runs-on: ubuntu-latest
