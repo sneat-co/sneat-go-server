@@ -6,9 +6,9 @@ go 1.22.7
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.15.15
-	github.com/sneat-co/sneat-go-backend v0.54.19
-	github.com/sneat-co/sneat-go-core v0.40.0
+	github.com/sneat-co/sneat-core-modules v0.15.16
+	github.com/sneat-co/sneat-go-backend v0.54.20
+	github.com/sneat-co/sneat-go-core v0.41.0
 	github.com/sneat-co/sneat-go-firebase v0.7.17
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
@@ -31,7 +31,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.49.0 // indirect
 	github.com/MicahParks/keyfunc v1.9.0 // indirect
 	github.com/alexsergivan/transliterator v1.0.1 // indirect
-	github.com/bots-go-framework/bots-api-telegram v0.7.2 // indirect
+	github.com/bots-go-framework/bots-api-telegram v0.7.3 // indirect
 	github.com/bots-go-framework/bots-fw v0.40.6 // indirect
 	github.com/bots-go-framework/bots-fw-store v0.8.2 // indirect
 	github.com/bots-go-framework/bots-fw-telegram v0.13.8 // indirect
