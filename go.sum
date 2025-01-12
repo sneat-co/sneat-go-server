@@ -38,8 +38,8 @@ github.com/alexsergivan/transliterator v1.0.1 h1:vON2ilWCHjq+S5Y4obhLGhHK4Y1VIhs
 github.com/alexsergivan/transliterator v1.0.1/go.mod h1:0IrumukulURJ4PD0z6UcdJKP2job1DYDhnHAP5y+5pE=
 github.com/bots-go-framework/bots-api-telegram v0.7.2 h1:opeFCvSlmMdm84WbJhXjqg7noPiW4Xyj4o5qx3zCBuI=
 github.com/bots-go-framework/bots-api-telegram v0.7.2/go.mod h1:BGnZGzmMX9x9/18W6BT2j8BU3LZXypj2rYuZfqgq87o=
-github.com/bots-go-framework/bots-fw v0.40.5 h1:tS2Ce7AH7zF+Tg8sVStZUY5eoOgrydm3JaiJhn/X628=
-github.com/bots-go-framework/bots-fw v0.40.5/go.mod h1:7TiFmFyqY4z922OLEkmYetcCNJ2adj+6iqEwb0b4zKI=
+github.com/bots-go-framework/bots-fw v0.40.6 h1:GpsqOuELd9VuV7qBuKTv9ospkIrwh8TF3Aj2724BiF8=
+github.com/bots-go-framework/bots-fw v0.40.6/go.mod h1:baBLMsoY14odhgYBCtsWr3e3scD9FgoWyK0E5FQY4i4=
 github.com/bots-go-framework/bots-fw-store v0.8.2 h1:Ss2ZRFoBeNgEy1TWzRIoVdERMoAv1kp9GlJvq3EbiHo=
 github.com/bots-go-framework/bots-fw-store v0.8.2/go.mod h1:ZxeNr86seS59kKyf9zol15vdZEcH+1CjjzHOFokGrVI=
 github.com/bots-go-framework/bots-fw-telegram v0.13.8 h1:GEgTXOcbs+RJEynUoYG66j8UyMXEyh0rqwztcXnnmZw=
@@ -121,10 +121,10 @@ github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7 h1:xoIK0ctDddBMnc74
 github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7/go.mod h1:YARuvh7BUWHNhzDq2OM5tzR2RiCcN2D7sapiKyCel/M=
 github.com/sneat-co/sneat-core-modules v0.15.15 h1:Fue5XxCtyt3lDNPzfPxqFO8osEAKTPlK6bFpMznfvOs=
 github.com/sneat-co/sneat-core-modules v0.15.15/go.mod h1:mZndTQGpS4ELAJGp7gm8LwVoZSkrTseimMHtIPmrfro=
-github.com/sneat-co/sneat-go-backend v0.54.18 h1:G2vwgug53ZO+xp6tLDSxNDCo7rhp81JCod6N7vGu3tk=
-github.com/sneat-co/sneat-go-backend v0.54.18/go.mod h1:neN6kH6pCv8rycUdDDS7V50jelJkMMWUpZs2SoBeJgc=
-github.com/sneat-co/sneat-go-core v0.38.1 h1:rb3rOZVYGbw+AOx8H53y0lZVdaGW8P5sFB21ZV7i0us=
-github.com/sneat-co/sneat-go-core v0.38.1/go.mod h1:e3fJ3mVQv9jBnn3+rUR5vc1TNLbsWMmRDhCOcbl9Yts=
+github.com/sneat-co/sneat-go-backend v0.54.19 h1:xX/HlWbJwFRoIMnLcsLleW09SSw+QLnjJuN2KayyJgY=
+github.com/sneat-co/sneat-go-backend v0.54.19/go.mod h1:OfdFb/KfSUwinsr4CFSyNlPWAiK/ycCfBJ1wmAoNfnE=
+github.com/sneat-co/sneat-go-core v0.40.0 h1:LE9kWO+zpJR3XYiJr0x+ZBqDQjGw7OeaZWZtbulqIPM=
+github.com/sneat-co/sneat-go-core v0.40.0/go.mod h1:e3fJ3mVQv9jBnn3+rUR5vc1TNLbsWMmRDhCOcbl9Yts=
 github.com/sneat-co/sneat-go-firebase v0.7.17 h1:iON8TNEtPQIeu1Cnd1ODK0dTmm7kPaQU5FbbHAiGlwY=
 github.com/sneat-co/sneat-go-firebase v0.7.17/go.mod h1:rOcaxYmVvfb1tCdzXV1dz6Bbd/G22NZjsYtceD+rsOc=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
