@@ -1,6 +1,6 @@
 module github.com/sneat-co/sneat-go-server
 
-go 1.23.2
+go 1.22.7
 
 //replace github.com/sneat-co/sneat-core-modules => ../sneat-core-modules
 
