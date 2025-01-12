@@ -1,7 +1,6 @@
 package main
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"
 )
@@ -21,6 +20,10 @@ func TestMainFunc(t *testing.T) {
 		finished = true
 	}()
 	time.Sleep(9 * time.Millisecond)
-	assert.False(t, finished)
-	assert.Nilf(t, r, "panic not expected, got: %v", r)
+	if finished {
+		t.Fatal("main() finished unexpectedly")
+	}
+	if r != nil {
+		t.Fatalf("panic not expected, got: %v", r)
+	}
 }

@@ -38,8 +38,6 @@ github.com/alexsergivan/transliterator v1.0.1 h1:vON2ilWCHjq+S5Y4obhLGhHK4Y1VIhs
 github.com/alexsergivan/transliterator v1.0.1/go.mod h1:0IrumukulURJ4PD0z6UcdJKP2job1DYDhnHAP5y+5pE=
 github.com/bots-go-framework/bots-api-telegram v0.7.2 h1:opeFCvSlmMdm84WbJhXjqg7noPiW4Xyj4o5qx3zCBuI=
 github.com/bots-go-framework/bots-api-telegram v0.7.2/go.mod h1:BGnZGzmMX9x9/18W6BT2j8BU3LZXypj2rYuZfqgq87o=
-github.com/bots-go-framework/bots-fw v0.40.4 h1:+PtLDbWUvr2J9xUnKtUTxAQl0Ka25ZjBxL2KYQ+m200=
-github.com/bots-go-framework/bots-fw v0.40.4/go.mod h1:KeNhMTMTiCymF8OeCADxTljQa8igCmSSqL2gqnr6W+A=
 github.com/bots-go-framework/bots-fw v0.40.5 h1:tS2Ce7AH7zF+Tg8sVStZUY5eoOgrydm3JaiJhn/X628=
 github.com/bots-go-framework/bots-fw v0.40.5/go.mod h1:7TiFmFyqY4z922OLEkmYetcCNJ2adj+6iqEwb0b4zKI=
 github.com/bots-go-framework/bots-fw-store v0.8.2 h1:Ss2ZRFoBeNgEy1TWzRIoVdERMoAv1kp9GlJvq3EbiHo=
@@ -113,10 +111,6 @@ github.com/gosimple/unidecode v1.0.1 h1:hZzFTMMqSswvf0LBJZCZgThIZrpDHFXux9KeGmn6
 github.com/gosimple/unidecode v1.0.1/go.mod h1:CP0Cr1Y1kogOtx0bJblKzsVWrqYaqfNOnHzpgWw4Awc=
 github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
 github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
-github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
-github.com/kr/pretty v0.3.1/go.mod h1:hoEshYVHaxMs3cyo3Yncou5ZscifuDolrwPKZanG3xk=
-github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
-github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10 h1:GFCKgmp0tecUJ0sJuv4pzYCqS9+RGSn52M3FUwPs+uo=
@@ -125,10 +119,6 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7 h1:xoIK0ctDddBMnc74udxJYBqlo9Ylnsp1waqjLsnef20=
 github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7/go.mod h1:YARuvh7BUWHNhzDq2OM5tzR2RiCcN2D7sapiKyCel/M=
-github.com/rogpeppe/go-internal v1.13.1 h1:KvO1DLK/DRN07sQ1LQKScxyZJuNnedQ5/wKSR38lUII=
-github.com/rogpeppe/go-internal v1.13.1/go.mod h1:uMEvuHeurkdAXX61udpOXGD/AzZDWNMNyH2VO9fmH0o=
-github.com/sneat-co/sneat-core-modules v0.15.14 h1:G0T8/nLIXJGoKWDS47toJk+omaO8C3PId1JvXe/9nt0=
-github.com/sneat-co/sneat-core-modules v0.15.14/go.mod h1:mZndTQGpS4ELAJGp7gm8LwVoZSkrTseimMHtIPmrfro=
 github.com/sneat-co/sneat-core-modules v0.15.15 h1:Fue5XxCtyt3lDNPzfPxqFO8osEAKTPlK6bFpMznfvOs=
 github.com/sneat-co/sneat-core-modules v0.15.15/go.mod h1:mZndTQGpS4ELAJGp7gm8LwVoZSkrTseimMHtIPmrfro=
 github.com/sneat-co/sneat-go-backend v0.54.18 h1:G2vwgug53ZO+xp6tLDSxNDCo7rhp81JCod6N7vGu3tk=
@@ -241,8 +231,6 @@ google.golang.org/protobuf v1.30.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqw
 google.golang.org/protobuf v1.36.2 h1:R8FeyR1/eLmkutZOM5CWghmo5itiG9z0ktFlTVLuTmU=
 google.golang.org/protobuf v1.36.2/go.mod h1:9fA7Ob0pmnwhb644+1+CVWFRbNajQ6iRojtC/QF5bRE=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
-gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c h1:Hei/4ADfdWqJk1ZMxUNpqntNwaWcugrBjAiHlqqRiVk=
-gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c/go.mod h1:JHkPIbrfpd72SG/EVd6muEfDQjcINNoR0C8j2r3qZ4Q=
 gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
