@@ -2,11 +2,11 @@ module github.com/sneat-co/sneat-go-server
 
 go 1.23.2
 
-//replace github.com/sneat-co/sneat-go-backend => ../sneat-go-backend
+//replace github.com/sneat-co/sneat-core-modules => ../sneat-core-modules
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.15.14
+	github.com/sneat-co/sneat-core-modules v0.15.15
 	github.com/sneat-co/sneat-go-backend v0.54.18
 	github.com/sneat-co/sneat-go-core v0.38.1
 	github.com/sneat-co/sneat-go-firebase v0.7.17
@@ -33,7 +33,7 @@ require (
 	github.com/MicahParks/keyfunc v1.9.0 // indirect
 	github.com/alexsergivan/transliterator v1.0.1 // indirect
 	github.com/bots-go-framework/bots-api-telegram v0.7.2 // indirect
-	github.com/bots-go-framework/bots-fw v0.40.4 // indirect
+	github.com/bots-go-framework/bots-fw v0.40.5 // indirect
 	github.com/bots-go-framework/bots-fw-store v0.8.2 // indirect
 	github.com/bots-go-framework/bots-fw-telegram v0.13.8 // indirect
 	github.com/bots-go-framework/bots-fw-telegram-models v0.3.8 // indirect
