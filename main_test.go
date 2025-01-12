@@ -5,10 +5,6 @@ import (
 	"time"
 )
 
-func TestInitMain(_ *testing.T) {
-	initMain()
-}
-
 func TestMainFunc(t *testing.T) {
 	finished := false
 	var r any

@@ -11,7 +11,7 @@ require (
 	github.com/sneat-co/sneat-go-core v0.38.1
 	github.com/sneat-co/sneat-go-firebase v0.7.17
 	github.com/strongo/delaying v0.1.0
-	github.com/strongo/logus v0.2.0
+	github.com/strongo/logus v0.2.1
 )
 
 require (
