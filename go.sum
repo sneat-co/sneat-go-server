@@ -125,6 +125,8 @@ github.com/sneat-co/sneat-go-backend v0.54.20 h1:0nOAsfGgLcDzQaYJtfsGZyVzVCLyJjH
 github.com/sneat-co/sneat-go-backend v0.54.20/go.mod h1:weHqhqdAOQ8iDIlLUFInmdYTg77LF945BRDpSa+7Cqk=
 github.com/sneat-co/sneat-go-core v0.41.0 h1:bD0hkbh6aRWDptHEdHgCi0XOpf1j4Y9CY0I6edSheo4=
 github.com/sneat-co/sneat-go-core v0.41.0/go.mod h1:e3fJ3mVQv9jBnn3+rUR5vc1TNLbsWMmRDhCOcbl9Yts=
+github.com/sneat-co/sneat-go-core v0.41.1 h1:h1+/nKB2fN/O529+7cpmGz/YPDzVPCHBDr3jYrsxgUI=
+github.com/sneat-co/sneat-go-core v0.41.1/go.mod h1:pDLlPtg0h12jk04+61nkFKuaqDlNHXqjX4lBZF0B4/g=
 github.com/sneat-co/sneat-go-firebase v0.7.17 h1:iON8TNEtPQIeu1Cnd1ODK0dTmm7kPaQU5FbbHAiGlwY=
 github.com/sneat-co/sneat-go-firebase v0.7.17/go.mod h1:rOcaxYmVvfb1tCdzXV1dz6Bbd/G22NZjsYtceD+rsOc=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
@@ -149,6 +151,8 @@ github.com/strongo/slice v0.3.1 h1:VWkyYBgcVJn6Hs7wYhL9Vxwgb7V3zQAUFTBV9wo5lc4=
 github.com/strongo/slice v0.3.1/go.mod h1:B5ODKCkl0rp2oiG0UBqkN1cCOrSCU2cUuhqCM1sC8r4=
 github.com/strongo/strongoapp v0.25.4 h1:AD9GrtuHXS4A6Hvv3yjPdSnOwxMt7gopMvukt/egFPk=
 github.com/strongo/strongoapp v0.25.4/go.mod h1:0ZHjfOhfg1za8ouzLoMoID7Qn3fg5IMDdjDt69xUAYI=
+github.com/strongo/strongoapp v0.25.5 h1:MOb3JYiyZX0g+AswccUGYW7J/tO1b9oPWa+UZj+5+x4=
+github.com/strongo/strongoapp v0.25.5/go.mod h1:jCdLBw1iXnG0mMu9RxET2lIfriBO4Q1qdNEbX8sAAkE=
 github.com/strongo/validation v0.0.7 h1:gs6YkwPsYtVsepQaQOB+ZF+T0Gu5+nk4ZMND8F85e+U=
 github.com/strongo/validation v0.0.7/go.mod h1:YUwoPEItLJd/Bc9X1OCUm03ofhvm3kwZvuihU7/jz58=
 github.com/technoweenie/multipartstreamer v1.0.1 h1:XRztA5MXiR1TIRHxH2uNxXxaIkKQDeX7m2XsSOlQEnM=
