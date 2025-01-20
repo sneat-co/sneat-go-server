@@ -6,10 +6,10 @@ go 1.22.7
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.15.17
+	github.com/sneat-co/sneat-core-modules v0.15.18
 	github.com/sneat-co/sneat-go-backend v0.54.21
 	github.com/sneat-co/sneat-go-core v0.41.1
-	github.com/sneat-co/sneat-go-firebase v0.7.18
+	github.com/sneat-co/sneat-go-firebase v0.7.19
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
 )
@@ -35,14 +35,14 @@ require (
 	github.com/bots-go-framework/bots-fw v0.40.6 // indirect
 	github.com/bots-go-framework/bots-fw-store v0.8.2 // indirect
 	github.com/bots-go-framework/bots-fw-telegram v0.13.9 // indirect
-	github.com/bots-go-framework/bots-fw-telegram-models v0.3.8 // indirect
+	github.com/bots-go-framework/bots-fw-telegram-models v0.3.9 // indirect
 	github.com/bots-go-framework/bots-fw-telegram-webapp v0.3.1 // indirect
 	github.com/bots-go-framework/bots-go-core v0.0.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cncf/xds/go v0.0.0-20241223141626-cff3c89139a3 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
 	github.com/dal-go/dalgo v0.14.2 // indirect
-	github.com/dal-go/dalgo2firestore v0.2.25 // indirect
+	github.com/dal-go/dalgo2firestore v0.2.26 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.32.3 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.1.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
@@ -85,7 +85,7 @@ require (
 	golang.org/x/sys v0.29.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.9.0 // indirect
-	google.golang.org/api v0.216.0 // indirect
+	google.golang.org/api v0.217.0 // indirect
 	google.golang.org/appengine/v2 v2.0.6 // indirect
 	google.golang.org/genproto v0.0.0-20250106144421-5f5ef82da422 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250106144421-5f5ef82da422 // indirect
