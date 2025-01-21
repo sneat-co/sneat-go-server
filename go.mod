@@ -6,7 +6,7 @@ go 1.22.7
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.15.17
+	github.com/sneat-co/sneat-core-modules v0.16.0
 	github.com/sneat-co/sneat-go-backend v0.54.21
 	github.com/sneat-co/sneat-go-core v0.41.1
 	github.com/sneat-co/sneat-go-firebase v0.7.18
@@ -35,7 +35,7 @@ require (
 	github.com/bots-go-framework/bots-fw v0.40.6 // indirect
 	github.com/bots-go-framework/bots-fw-store v0.8.2 // indirect
 	github.com/bots-go-framework/bots-fw-telegram v0.13.9 // indirect
-	github.com/bots-go-framework/bots-fw-telegram-models v0.3.8 // indirect
+	github.com/bots-go-framework/bots-fw-telegram-models v0.3.9 // indirect
 	github.com/bots-go-framework/bots-fw-telegram-webapp v0.3.1 // indirect
 	github.com/bots-go-framework/bots-go-core v0.0.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
