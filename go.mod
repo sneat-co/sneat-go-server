@@ -6,9 +6,9 @@ go 1.22.7
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.16.0
+	github.com/sneat-co/sneat-core-modules v0.18.0
 	github.com/sneat-co/sneat-go-backend v0.54.21
-	github.com/sneat-co/sneat-go-core v0.41.1
+	github.com/sneat-co/sneat-go-core v0.42.0
 	github.com/sneat-co/sneat-go-firebase v0.7.19
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
@@ -31,15 +31,9 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.49.0 // indirect
 	github.com/MicahParks/keyfunc v1.9.0 // indirect
 	github.com/alexsergivan/transliterator v1.0.1 // indirect
-	github.com/bots-go-framework/bots-api-telegram v0.7.3 // indirect
-	github.com/bots-go-framework/bots-fw v0.40.6 // indirect
 	github.com/bots-go-framework/bots-fw-store v0.8.2 // indirect
-	github.com/bots-go-framework/bots-fw-telegram v0.13.10 // indirect
-	github.com/bots-go-framework/bots-fw-telegram-models v0.3.9 // indirect
-	github.com/bots-go-framework/bots-fw-telegram-webapp v0.3.1 // indirect
-	github.com/bots-go-framework/bots-go-core v0.0.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/cncf/xds/go v0.0.0-20241223141626-cff3c89139a3 // indirect
+	github.com/cncf/xds/go v0.0.0-20250121191232-2f005788dc42 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
 	github.com/dal-go/dalgo v0.14.2 // indirect
 	github.com/dal-go/dalgo2firestore v0.2.26 // indirect
@@ -59,16 +53,11 @@ require (
 	github.com/gosimple/unidecode v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10 // indirect
-	github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7 // indirect
 	github.com/strongo/decimal v0.1.1 // indirect
-	github.com/strongo/facebook v1.8.1 // indirect
-	github.com/strongo/gamp v0.0.1 // indirect
-	github.com/strongo/i18n v0.6.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
 	github.com/strongo/slice v0.3.1 // indirect
 	github.com/strongo/strongoapp v0.25.5 // indirect
 	github.com/strongo/validation v0.0.7 // indirect
-	github.com/technoweenie/multipartstreamer v1.0.1 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/contrib/detectors/gcp v1.34.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.59.0 // indirect
