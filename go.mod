@@ -6,10 +6,10 @@ go 1.22.7
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.18.0
-	github.com/sneat-co/sneat-go-backend v0.54.21
+	github.com/sneat-co/sneat-core-modules v0.18.2
+	github.com/sneat-co/sneat-go-backend v0.55.1
 	github.com/sneat-co/sneat-go-core v0.42.0
-	github.com/sneat-co/sneat-go-firebase v0.7.19
+	github.com/sneat-co/sneat-go-firebase v0.7.20
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
 )
@@ -31,7 +31,7 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.49.0 // indirect
 	github.com/MicahParks/keyfunc v1.9.0 // indirect
 	github.com/alexsergivan/transliterator v1.0.1 // indirect
-	github.com/bots-go-framework/bots-fw-store v0.8.2 // indirect
+	github.com/bots-go-framework/bots-fw-store v0.9.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cncf/xds/go v0.0.0-20250121191232-2f005788dc42 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
