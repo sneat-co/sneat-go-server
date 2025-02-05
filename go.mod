@@ -6,10 +6,10 @@ go 1.22.7
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.23.0
-	github.com/sneat-co/sneat-go-backend v0.55.4
-	github.com/sneat-co/sneat-go-core v0.45.1
-	github.com/sneat-co/sneat-go-firebase v0.7.23
+	github.com/sneat-co/sneat-core-modules v0.23.7
+	github.com/sneat-co/sneat-go-backend v0.55.5
+	github.com/sneat-co/sneat-go-core v0.45.5
+	github.com/sneat-co/sneat-go-firebase v0.7.24
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
 )
@@ -36,7 +36,7 @@ require (
 	github.com/cncf/xds/go v0.0.0-20250121191232-2f005788dc42 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
 	github.com/dal-go/dalgo v0.16.1 // indirect
-	github.com/dal-go/dalgo2firestore v0.2.29 // indirect
+	github.com/dal-go/dalgo2firestore v0.2.33 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.32.3 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.2.1 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
@@ -56,7 +56,7 @@ require (
 	github.com/strongo/decimal v0.1.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
 	github.com/strongo/slice v0.3.1 // indirect
-	github.com/strongo/strongoapp v0.25.8 // indirect
+	github.com/strongo/strongoapp v0.26.1 // indirect
 	github.com/strongo/validation v0.0.7 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/contrib/detectors/gcp v1.34.0 // indirect
