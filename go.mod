@@ -9,9 +9,9 @@ toolchain go1.24.1
 require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sneat-co/sneat-core-modules v0.24.29
-	github.com/sneat-co/sneat-go-backend v0.56.9
+	github.com/sneat-co/sneat-go-backend v0.56.10
 	github.com/sneat-co/sneat-go-core v0.47.6
-	github.com/sneat-co/sneat-go-firebase v0.7.34
+	github.com/sneat-co/sneat-go-firebase v0.7.35
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
 )
@@ -38,7 +38,7 @@ require (
 	github.com/cncf/xds/go v0.0.0-20250121191232-2f005788dc42 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
 	github.com/dal-go/dalgo v0.18.1 // indirect
-	github.com/dal-go/dalgo2firestore v0.3.9 // indirect
+	github.com/dal-go/dalgo2firestore v0.3.11 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.32.4 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.2.1 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
@@ -76,7 +76,7 @@ require (
 	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
 	golang.org/x/time v0.11.0 // indirect
-	google.golang.org/api v0.223.0 // indirect
+	google.golang.org/api v0.224.0 // indirect
 	google.golang.org/appengine/v2 v2.0.6 // indirect
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb // indirect
