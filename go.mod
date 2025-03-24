@@ -8,9 +8,9 @@ toolchain go1.24.1
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.24.32
+	github.com/sneat-co/sneat-core-modules v0.24.33
 	github.com/sneat-co/sneat-go-backend v0.56.16
-	github.com/sneat-co/sneat-go-core v0.50.3
+	github.com/sneat-co/sneat-go-core v0.50.4
 	github.com/sneat-co/sneat-go-firebase v0.7.36
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
@@ -37,7 +37,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cncf/xds/go v0.0.0-20250121191232-2f005788dc42 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
-	github.com/dal-go/dalgo v0.18.1 // indirect
+	github.com/dal-go/dalgo v0.18.2 // indirect
 	github.com/dal-go/dalgo2firestore v0.3.11 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.32.4 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.2.1 // indirect
