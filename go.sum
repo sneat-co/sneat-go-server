@@ -146,6 +146,8 @@ github.com/golang-jwt/jwt/v4 v4.5.1 h1:JdqV9zKUdtaa9gdPlywC3aeoEsR681PlKC+4F5gQg
 github.com/golang-jwt/jwt/v4 v4.5.1/go.mod h1:m21LjoU+eqJr34lmDMbreY2eSTRJ1cv77w39/MY0Ch0=
 github.com/golang-jwt/jwt/v5 v5.2.1 h1:OuVbFODueb089Lh128TAcimifWaLhJwVflnrgM17wHk=
 github.com/golang-jwt/jwt/v5 v5.2.1/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
+github.com/golang-jwt/jwt/v5 v5.2.2 h1:Rl4B7itRWVtYIHFrSNd7vhTiz9UpLdi6gZhZ3wEeDy8=
+github.com/golang-jwt/jwt/v5 v5.2.2/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
 github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da h1:oI5xCqsCo564l8iNU+DwB5epxmsaqB+rhGL0m5jtYqE=
 github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da/go.mod h1:cIg4eruTrX1D+g88fzRXU5OdNfaM+9IcxsU14FzY7Hc=
 github.com/golang/mock v1.6.0 h1:ErTB+efbowRARo13NNdxyJji2egdxLGQhRaY+DUumQc=
@@ -208,6 +210,8 @@ github.com/sneat-co/sneat-core-modules v0.24.32 h1:h4A8UwKP9kmKBN50cCTOnwwhy0w7i
 github.com/sneat-co/sneat-core-modules v0.24.32/go.mod h1:dd7yLJGycSO3HPKu++ZtD/+xhVFPtnOLO+BgOiprwJE=
 github.com/sneat-co/sneat-core-modules v0.24.33 h1:K3nYr4+JHWcpLUd1CNO0ybacC2couWpWPHu7UAcqyQ8=
 github.com/sneat-co/sneat-core-modules v0.24.33/go.mod h1:dd7yLJGycSO3HPKu++ZtD/+xhVFPtnOLO+BgOiprwJE=
+github.com/sneat-co/sneat-core-modules v0.25.0 h1:GrfIUTr/K7+HEQ0TRWiJViTZkJFT7FyBnX0K1W6P6zU=
+github.com/sneat-co/sneat-core-modules v0.25.0/go.mod h1:tPVPUV172oqQg8vfvjy2DWShqEH56oZSVahpln7aIrQ=
 github.com/sneat-co/sneat-go-backend v0.54.21 h1:jBKx1QAz153d7xwZdkYZFZcFHYm7iiLrd9NTSumZMyc=
 github.com/sneat-co/sneat-go-backend v0.54.21/go.mod h1:L1khjwQJx/xkEKlaP75qDay92tFgSM1Og5aQER/3t8I=
 github.com/sneat-co/sneat-go-backend v0.55.1 h1:zD8cloV7MV4zOj7uEz0MObXBFqbUNIGwEXH25gYEKdo=
@@ -240,6 +244,8 @@ github.com/sneat-co/sneat-go-backend v0.56.15 h1:C9WmPS94kdYXCZvi9DCuFs9PVL9iuNI
 github.com/sneat-co/sneat-go-backend v0.56.15/go.mod h1:a+oC5vmvLp21jsi89NS470mWogszRJyyZW04sRSo+dE=
 github.com/sneat-co/sneat-go-backend v0.56.16 h1:mt7IHn93mpYnCgnqaLqs5WfHZ1VYMJC89Fmd3W2tpjU=
 github.com/sneat-co/sneat-go-backend v0.56.16/go.mod h1:n+5B2T/9+zPm5FAcPtuCLQmndupagxB3d/M/D8HDyEM=
+github.com/sneat-co/sneat-go-backend v0.56.21 h1:dQRGXiEL4VSWsp30AhGzqxOLyhMpPLh+Y4aiNX+kCxs=
+github.com/sneat-co/sneat-go-backend v0.56.21/go.mod h1:EhpZRITA9BqYY7hU+7kTHL+XY9mzCvYpex85mGbYiRY=
 github.com/sneat-co/sneat-go-core v0.42.0 h1:Nku8RWyAPu24xoKlIyPPgZyQ5KlgvcNST79imyoRDks=
 github.com/sneat-co/sneat-go-core v0.42.0/go.mod h1:pDLlPtg0h12jk04+61nkFKuaqDlNHXqjX4lBZF0B4/g=
 github.com/sneat-co/sneat-go-core v0.45.0 h1:oozl/4C1iBLlSJj5yaDFU8M3uoTR+utRiuhAv9nenaQ=
@@ -264,6 +270,8 @@ github.com/sneat-co/sneat-go-core v0.50.3 h1:0cUgceC0c3ONmCCP5awwNzIkZiqm22OiZOl
 github.com/sneat-co/sneat-go-core v0.50.3/go.mod h1:tWZVQfd/wl01ogDkhfjKY6hPK8uo/ihv2jlnjuYVlhY=
 github.com/sneat-co/sneat-go-core v0.50.4 h1:Nw9lhF7ahDafFHgx5pcaT3iCun0yZxBCutYETMQjqrs=
 github.com/sneat-co/sneat-go-core v0.50.4/go.mod h1:BLOtvBRlSh2MwU8lteaAHdHfNiVC2qEjSdBqv749AiE=
+github.com/sneat-co/sneat-go-core v0.50.6 h1:QsNyiOL6T5zsdy16nfUY25OXeW8JuE8ha4glH/ze7sw=
+github.com/sneat-co/sneat-go-core v0.50.6/go.mod h1:47pmj+jgUcN4jRpQUZTC9pQ2cL7HEbwCqoq2vQHr8Y8=
 github.com/sneat-co/sneat-go-firebase v0.7.19 h1:EXKvkHfHLUGhVN3LD3AilSG4iL9qtIxhwDwjHRTgiwE=
 github.com/sneat-co/sneat-go-firebase v0.7.19/go.mod h1:2oYFGSrTYtduBkxRjJhmN/1IopIBOS8xcyy6ALvbcDo=
 github.com/sneat-co/sneat-go-firebase v0.7.20 h1:GmT2duVLmZ906qApC7PN4EZ/Unrpv2sYTE//mraGLiM=
@@ -312,6 +320,8 @@ github.com/strongo/strongoapp v0.26.2 h1:ynxBIYrL1sl+56fNxjgkfQht5rm/ioxe06UQpzS
 github.com/strongo/strongoapp v0.26.2/go.mod h1:YFiVxiy78/RQK7ScicbNl6QejWnh8rmDCXbg6qmlqrU=
 github.com/strongo/strongoapp v0.26.6 h1:NuanIYlDVS/1yho4BqrkbfHtHG1aDYhhKAodL1zGNC8=
 github.com/strongo/strongoapp v0.26.6/go.mod h1:tXScXwuO0aywBKrFc/50ychTQAbbZgDJSWnNnk+h/bo=
+github.com/strongo/strongoapp v0.27.0 h1:nC9rzSSC4e8kyIH57ODLCGInIqLSyTdZe/eSE6xIYmk=
+github.com/strongo/strongoapp v0.27.0/go.mod h1:NpH0QJ0P8VOJpo7mk5leT1f32PKpfbUM39Faz80bloM=
 github.com/strongo/validation v0.0.7 h1:gs6YkwPsYtVsepQaQOB+ZF+T0Gu5+nk4ZMND8F85e+U=
 github.com/strongo/validation v0.0.7/go.mod h1:YUwoPEItLJd/Bc9X1OCUm03ofhvm3kwZvuihU7/jz58=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
