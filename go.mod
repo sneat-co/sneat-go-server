@@ -8,8 +8,8 @@ toolchain go1.24.1
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.25.0
-	github.com/sneat-co/sneat-go-backend v0.56.21
+	github.com/sneat-co/sneat-core-modules v0.25.1
+	github.com/sneat-co/sneat-go-backend v0.56.22
 	github.com/sneat-co/sneat-go-core v0.50.6
 	github.com/sneat-co/sneat-go-firebase v0.7.36
 	github.com/strongo/delaying v0.1.0
@@ -70,7 +70,7 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.35.0 // indirect
 	go.opentelemetry.io/otel/trace v1.35.0 // indirect
 	golang.org/x/crypto v0.36.0 // indirect
-	golang.org/x/net v0.37.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
 	golang.org/x/oauth2 v0.28.0 // indirect
 	golang.org/x/sync v0.12.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
