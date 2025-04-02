@@ -2,15 +2,15 @@ module github.com/sneat-co/sneat-go-server
 
 go 1.23.0
 
-toolchain go1.24.1
+toolchain go1.24.2
 
 //replace github.com/sneat-co/sneat-core-modules => ../sneat-core-modules
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.25.1
-	github.com/sneat-co/sneat-go-backend v0.56.22
-	github.com/sneat-co/sneat-go-core v0.50.6
+	github.com/sneat-co/sneat-core-modules v0.25.3
+	github.com/sneat-co/sneat-go-backend v0.56.26
+	github.com/sneat-co/sneat-go-core v0.50.7
 	github.com/sneat-co/sneat-go-firebase v0.7.36
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
