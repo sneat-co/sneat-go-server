@@ -8,9 +8,9 @@ toolchain go1.24.2
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.25.6
-	github.com/sneat-co/sneat-go-backend v0.56.31
-	github.com/sneat-co/sneat-go-core v0.50.9
+	github.com/sneat-co/sneat-core-modules v0.25.9
+	github.com/sneat-co/sneat-go-backend v0.56.32
+	github.com/sneat-co/sneat-go-core v0.50.10
 	github.com/sneat-co/sneat-go-firebase v0.7.36
 	github.com/strongo/delaying v0.1.0
 	github.com/strongo/logus v0.2.1
