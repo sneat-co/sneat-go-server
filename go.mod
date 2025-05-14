@@ -6,8 +6,8 @@ go 1.24.3
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.28.7
-	github.com/sneat-co/sneat-go-backend v0.57.10
+	github.com/sneat-co/sneat-core-modules v0.28.12
+	github.com/sneat-co/sneat-go-backend v0.57.13
 	github.com/sneat-co/sneat-go-core v0.50.18
 	github.com/sneat-co/sneat-go-firebase v0.7.37
 	github.com/strongo/delaying v0.1.0
@@ -58,7 +58,7 @@ require (
 	github.com/strongo/decimal v0.1.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
 	github.com/strongo/slice v0.3.1 // indirect
-	github.com/strongo/strongoapp v0.27.2 // indirect
+	github.com/strongo/strongoapp v0.30.0 // indirect
 	github.com/strongo/validation v0.0.7 // indirect
 	github.com/zeebo/errs v1.4.0 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
