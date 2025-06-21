@@ -46,6 +46,8 @@ github.com/crediterra/money v0.3.0 h1:dHWEZhkMGGxkHTAbGQOaeg8eYbL8qJSCgcqdOTbNg2
 github.com/crediterra/money v0.3.0/go.mod h1:0BT7dzPk4Wv+Wi8J6sxlFbCknYioLWVVQM4ciMJh6TI=
 github.com/dal-go/dalgo v0.21.0 h1:dtUi3x4LgZkg94vegDYSoBwxbsguyYoBFAS1rLaCSpA=
 github.com/dal-go/dalgo v0.21.0/go.mod h1:BoMNGwDE9FdjynV7xCn5f/GdVJxvfePwjsMldn+BhqA=
+github.com/dal-go/dalgo v0.21.1 h1:kJmOxiG4sF3djnfrv20w1III3YTpgjrR/Ih6Oq9k5oo=
+github.com/dal-go/dalgo v0.21.1/go.mod h1:BoMNGwDE9FdjynV7xCn5f/GdVJxvfePwjsMldn+BhqA=
 github.com/dal-go/dalgo2firestore v0.5.1 h1:78w5b4AYNHEWKHDoavO31MAfDT4WLW/MlvNT4aTiwns=
 github.com/dal-go/dalgo2firestore v0.5.1/go.mod h1:agMWneYXoV6QVux/6DOXuo9fDXbGY/0KaA5FdBZjL9c=
 github.com/dal-go/mocks4dalgo v0.3.0 h1:Fv5V+wR6blBe0FMldMWRiEk6Yi6DEEpSV+gjuZcrk/4=
@@ -111,6 +113,8 @@ github.com/sneat-co/sneat-core-modules v0.32.5 h1:ZCwQU2hyNnNUcI29+kIi3NbYBGt5FJ
 github.com/sneat-co/sneat-core-modules v0.32.5/go.mod h1:3yu0cMZ5ajanlCQ+gEqtcANsHSReZyr8sOBHj4f1Tqg=
 github.com/sneat-co/sneat-core-modules v0.32.7 h1:7FdCJGxBl+hE2IpPF2qCkXK+IchP6zcdI8ckul32KSs=
 github.com/sneat-co/sneat-core-modules v0.32.7/go.mod h1:SG/Q8vzSjWp5E4UprUtbGugupghAwZGHPqIqFpaBRdk=
+github.com/sneat-co/sneat-core-modules v0.32.8 h1:R3+EDJn21CO0ASw62fMBjlwQ5Po4Hbm8uT4rZSh72Ik=
+github.com/sneat-co/sneat-core-modules v0.32.8/go.mod h1:LdVQ3yeG8UWUi/wQGVcFgQnxzss3SBPtPSz7W3vIESQ=
 github.com/sneat-co/sneat-go-backend v0.57.18 h1:uuRa7WaEKLRJyrWYkYXXHzCYsRj1HOw8V7RSW7gNkEg=
 github.com/sneat-co/sneat-go-backend v0.57.18/go.mod h1:Ikj31DU2RQrpipn0TfzNKyVAXNbQ1/eO6scuRB8DI48=
 github.com/sneat-co/sneat-go-backend v0.57.19 h1:2F9GysZajMagezBnw/A1/T5lHIz5O0qSJRVZnTSx8Co=
