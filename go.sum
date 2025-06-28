@@ -117,6 +117,8 @@ github.com/sneat-co/sneat-core-modules v0.32.8 h1:R3+EDJn21CO0ASw62fMBjlwQ5Po4Hb
 github.com/sneat-co/sneat-core-modules v0.32.8/go.mod h1:LdVQ3yeG8UWUi/wQGVcFgQnxzss3SBPtPSz7W3vIESQ=
 github.com/sneat-co/sneat-core-modules v0.32.9 h1:WVW8k3RfGMeRiK+nuTep4VFfyoOPRAjJ9KVdW0etUDo=
 github.com/sneat-co/sneat-core-modules v0.32.9/go.mod h1:FLQKj5beXglL4+2hf5ugiverypCDZ7NsbQuq03y3mvo=
+github.com/sneat-co/sneat-core-modules v0.32.11 h1:vWYAm296m83TyE1xhlV534v6l5tr8xgolJMV40fZ1Ck=
+github.com/sneat-co/sneat-core-modules v0.32.11/go.mod h1:UG0M3AneJBB8kjNFvTrerJOHDsKMX9rJUJRZGrUMYPU=
 github.com/sneat-co/sneat-go-backend v0.57.18 h1:uuRa7WaEKLRJyrWYkYXXHzCYsRj1HOw8V7RSW7gNkEg=
 github.com/sneat-co/sneat-go-backend v0.57.18/go.mod h1:Ikj31DU2RQrpipn0TfzNKyVAXNbQ1/eO6scuRB8DI48=
 github.com/sneat-co/sneat-go-backend v0.57.19 h1:2F9GysZajMagezBnw/A1/T5lHIz5O0qSJRVZnTSx8Co=
@@ -153,6 +155,8 @@ github.com/strongo/decimal v0.1.1 h1:k7HY/0NmG6Ne5YPV7XybII+AT7O4AShl6HZpLiNZsb4
 github.com/strongo/decimal v0.1.1/go.mod h1:uKFgetJbR2uT026stdbK54ELXTH9h0vZOPPOp7DAODk=
 github.com/strongo/delaying v0.1.0 h1:w4dpqwrwOxP5YlTJeZmzzIrIUM9rVXiPNv53opL0AaE=
 github.com/strongo/delaying v0.1.0/go.mod h1:6PnWp2IL3UDo7tQyFVIOxBiIiHSj0eVZ6VfrleGNjzA=
+github.com/strongo/delaying v0.2.1 h1:vpugNAmvwF81ZcICARgAzMWjACi3UXDSTLxfe9fB/4w=
+github.com/strongo/delaying v0.2.1/go.mod h1:6PnWp2IL3UDo7tQyFVIOxBiIiHSj0eVZ6VfrleGNjzA=
 github.com/strongo/logus v0.2.1 h1:ZzAtdSg6PPF1Y43WbNWl7MH1XYl7kvKMxyxv/lpbadI=
 github.com/strongo/logus v0.2.1/go.mod h1:sd8gjJklqGQAg+Q0mlP5MWgzguAuxR25YYFSkfVOPdc=
 github.com/strongo/random v0.0.1 h1:OZHJBb/3uEa7OX8L2Dv2pLnSeewRmXMyTACoeto6O8I=
