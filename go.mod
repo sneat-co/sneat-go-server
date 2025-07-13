@@ -6,9 +6,9 @@ go 1.24.3
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.33.1
-	github.com/sneat-co/sneat-go-backend v0.57.29
-	github.com/sneat-co/sneat-go-core v0.50.28
+	github.com/sneat-co/sneat-core-modules v0.33.6
+	github.com/sneat-co/sneat-go-backend v0.57.32
+	github.com/sneat-co/sneat-go-core v0.51.0
 	github.com/sneat-co/sneat-go-firebase v0.7.37
 	github.com/strongo/delaying v0.2.1
 	github.com/strongo/logus v0.2.1
@@ -58,7 +58,7 @@ require (
 	github.com/strongo/decimal v0.1.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
 	github.com/strongo/slice v0.3.1 // indirect
-	github.com/strongo/strongoapp v0.31.6 // indirect
+	github.com/strongo/strongoapp v0.31.7 // indirect
 	github.com/strongo/validation v0.0.7 // indirect
 	github.com/zeebo/errs v1.4.0 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
@@ -71,12 +71,12 @@ require (
 	go.opentelemetry.io/otel/sdk v1.37.0 // indirect
 	go.opentelemetry.io/otel/sdk/metric v1.37.0 // indirect
 	go.opentelemetry.io/otel/trace v1.37.0 // indirect
-	golang.org/x/crypto v0.39.0 // indirect
-	golang.org/x/net v0.41.0 // indirect
+	golang.org/x/crypto v0.40.0 // indirect
+	golang.org/x/net v0.42.0 // indirect
 	golang.org/x/oauth2 v0.30.0 // indirect
-	golang.org/x/sync v0.15.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
-	golang.org/x/text v0.26.0 // indirect
+	golang.org/x/sync v0.16.0 // indirect
+	golang.org/x/sys v0.34.0 // indirect
+	golang.org/x/text v0.27.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
 	google.golang.org/api v0.240.0 // indirect
 	google.golang.org/appengine/v2 v2.0.6 // indirect
