@@ -6,7 +6,7 @@ go 1.24.3
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.38.1
+	github.com/sneat-co/sneat-core-modules v0.38.2
 	github.com/sneat-co/sneat-go-backend v0.58.1
 	github.com/sneat-co/sneat-go-core v0.54.0
 	github.com/sneat-co/sneat-go-firebase v0.7.37
