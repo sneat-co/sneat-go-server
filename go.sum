@@ -79,6 +79,8 @@ github.com/golang-jwt/jwt/v5 v5.2.2 h1:Rl4B7itRWVtYIHFrSNd7vhTiz9UpLdi6gZhZ3wEeD
 github.com/golang-jwt/jwt/v5 v5.2.2/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
 github.com/golang-jwt/jwt/v5 v5.2.3 h1:kkGXqQOBSDDWRhWNXTFpqGSCMyh/PLnqUvMGJPDJDs0=
 github.com/golang-jwt/jwt/v5 v5.2.3/go.mod h1:pqrtFR0X4osieyHYxtmOUWsAWrfe1Q5UVIyoH402zdk=
+github.com/golang-jwt/jwt/v5 v5.3.0 h1:pv4AsKCKKZuqlgs5sUmn4x8UlGa0kEVt/puTpKx9vvo=
+github.com/golang-jwt/jwt/v5 v5.3.0/go.mod h1:fxCRLWMO43lRc8nhHWY6LGqRcf+1gQWArsqaEUEa5bE=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
 github.com/golang/protobuf v1.5.4 h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=
 github.com/golang/protobuf v1.5.4/go.mod h1:lnTiLA8Wa4RWRcIUkrtSVa5nRhsEGBg48fD6rSs7xps=
@@ -120,6 +122,8 @@ github.com/sneat-co/sneat-core-modules v0.38.1 h1:FWBO+T3gc8KjDpz7pCr3M5L/LWjOHo
 github.com/sneat-co/sneat-core-modules v0.38.1/go.mod h1:Du2Z9uTO8ljDYXqStW3rGZnQ4WJoxA0IG2NUB0XOd9k=
 github.com/sneat-co/sneat-core-modules v0.38.2 h1:P6jxv1nKD+dgQ9hZ0qg4YAs+5RxCbz0CsALFZ53IpMU=
 github.com/sneat-co/sneat-core-modules v0.38.2/go.mod h1:G7WvqUxa56j8UubmmeaP9+pHjit2bboBeHBHmYQ5f5U=
+github.com/sneat-co/sneat-core-modules v0.38.3 h1:0r+VmKSSEiWlX10NhbTDIvOOT/whoF+mea2LF4UiLO8=
+github.com/sneat-co/sneat-core-modules v0.38.3/go.mod h1:XjjE7Huvbd1AKBPd9sD/Sqra/i9wUUtxRrts/4cgucs=
 github.com/sneat-co/sneat-go-backend v0.57.28 h1:p9Oxm7PCVlitRtb6LDY0vBCvINbsC1SlatTpK4oVfkY=
 github.com/sneat-co/sneat-go-backend v0.57.28/go.mod h1:+MprIJJhH0S76Kuv0hQDFGTXxI56qcOmC8l6b7ApyqA=
 github.com/sneat-co/sneat-go-backend v0.57.29 h1:tecaPnFlGeTZ01cLcQPLG7kcWag0f3bwNMwLpqmGqXk=
