@@ -1,14 +1,15 @@
 package main
 
 import (
+	"io"
+	"os"
+	"strings"
+
 	"github.com/sneat-co/sneat-go-backend/src/sneatgae/sneatgaeapp"
 	"github.com/sneat-co/sneat-go-core/emails/email2writer"
 	"github.com/sneat-co/sneat-go-server/sneatserver"
 	"github.com/strongo/delaying"
 	"github.com/strongo/logus"
-	"io"
-	"os"
-	"strings"
 )
 
 func main() { // TODO: document why we need this wrapper

@@ -1,9 +1,10 @@
 package sneatserver
 
 import (
+	"testing"
+
 	"github.com/strongo/delaying"
 	"github.com/strongo/logus"
-	"testing"
 )
 
 func TestInitServer(_ *testing.T) {
