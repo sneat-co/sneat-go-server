@@ -8,7 +8,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sneat-co/sneat-core-modules v0.38.16
 	github.com/sneat-co/sneat-go-backend v0.58.9
-	github.com/sneat-co/sneat-go-core v0.54.8
+	github.com/sneat-co/sneat-go-core v0.54.9
 	github.com/sneat-co/sneat-go-firebase v0.7.37
 	github.com/strongo/delaying v0.2.1
 	github.com/strongo/logus v0.4.0
@@ -59,11 +59,11 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/planetscale/vtprotobuf v0.6.1-0.20241121165744-79df5c4772f2 // indirect
 	github.com/spiffe/go-spiffe/v2 v2.6.0 // indirect
-	github.com/strongo/analytics v0.2.2 // indirect
+	github.com/strongo/analytics v0.2.3 // indirect
 	github.com/strongo/decimal v0.1.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
 	github.com/strongo/slice v0.3.3 // indirect
-	github.com/strongo/strongoapp v0.31.11 // indirect
+	github.com/strongo/strongoapp v0.31.12 // indirect
 	github.com/strongo/validation v0.0.7 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/contrib/detectors/gcp v1.39.0 // indirect
