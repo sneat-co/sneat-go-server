@@ -123,6 +123,8 @@ github.com/sneat-co/sneat-go-core v0.54.8 h1:wreTghGELAohf1S3uU8jbnGTqoveo2onvzZ
 github.com/sneat-co/sneat-go-core v0.54.8/go.mod h1:cq/ZRgkKbjo17o40+pMEU8nyZfUVyDEkopWr9MArDgQ=
 github.com/sneat-co/sneat-go-core v0.54.9 h1:xwRly53m0YJQD29fCCompCw3V7lPTHP2oUI4xy0FhpU=
 github.com/sneat-co/sneat-go-core v0.54.9/go.mod h1:1kDalHL5xXSPXAjWQh49LT/Z5DlvXKcopJVeWq6qXuM=
+github.com/sneat-co/sneat-go-core v0.54.10 h1:iIGO6jJYfWtHPAnjG+/jsT2PDoKiRUXhdyTXktuk7V4=
+github.com/sneat-co/sneat-go-core v0.54.10/go.mod h1:6sAqViZtgIs3VJOwBpHypACNJmINwvLjZFrphZd0Duk=
 github.com/sneat-co/sneat-go-firebase v0.7.37 h1:eKoM1xpRsRi+79pe+o+fl6IDCk7iPthKgfLE/3/XQ5E=
 github.com/sneat-co/sneat-go-firebase v0.7.37/go.mod h1:brxM4Jdn68Oq3VXwBiBZc5x8iYDl4Zs121uRX6poJn0=
 github.com/spiffe/go-spiffe/v2 v2.6.0 h1:l+DolpxNWYgruGQVV0xsfeya3CsC7m8iBzDnMpsbLuo=
