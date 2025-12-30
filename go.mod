@@ -6,7 +6,7 @@ go 1.24.3
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/sneat-co/sneat-core-modules v0.38.16
+	github.com/sneat-co/sneat-core-modules v0.38.18
 	github.com/sneat-co/sneat-go-backend v0.58.9
 	github.com/sneat-co/sneat-go-core v0.54.9
 	github.com/sneat-co/sneat-go-firebase v0.7.37
@@ -31,13 +31,14 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.54.0 // indirect
 	github.com/MicahParks/keyfunc v1.9.0 // indirect
 	github.com/RoaringBitmap/roaring v1.9.4 // indirect
+	github.com/RoaringBitmap/roaring/v2 v2.14.4 // indirect
 	github.com/alexsergivan/transliterator v1.0.1 // indirect
 	github.com/bits-and-blooms/bitset v1.24.4 // indirect
 	github.com/bots-go-framework/bots-fw-store v0.10.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/cncf/xds/go v0.0.0-20251210132809-ee656c7534f5 // indirect
 	github.com/crediterra/money v0.3.0 // indirect
-	github.com/dal-go/dalgo v0.40.2 // indirect
+	github.com/dal-go/dalgo v0.41.1 // indirect
 	github.com/dal-go/dalgo2firestore v0.6.36 // indirect
 	github.com/envoyproxy/go-control-plane v0.14.0 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.36.0 // indirect

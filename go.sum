@@ -36,6 +36,8 @@ github.com/MicahParks/keyfunc v1.9.0 h1:lhKd5xrFHLNOWrDc4Tyb/Q1AJ4LCzQ48GVJyVIID
 github.com/MicahParks/keyfunc v1.9.0/go.mod h1:IdnCilugA0O/99dW+/MkvlyrsX8+L8+x95xuVNtM5jw=
 github.com/RoaringBitmap/roaring v1.9.4 h1:yhEIoH4YezLYT04s1nHehNO64EKFTop/wBhxv2QzDdQ=
 github.com/RoaringBitmap/roaring v1.9.4/go.mod h1:6AXUsoIEzDTFFQCe1RbGA6uFONMhvejWj5rqITANK90=
+github.com/RoaringBitmap/roaring/v2 v2.14.4 h1:4aKySrrg9G/5oRtJ3TrZLObVqxgQ9f1znCRBwEwjuVw=
+github.com/RoaringBitmap/roaring/v2 v2.14.4/go.mod h1:oMvV6omPWr+2ifRdeZvVJyaz+aoEUopyv5iH0u/+wbY=
 github.com/alexsergivan/transliterator v1.0.1 h1:vON2ilWCHjq+S5Y4obhLGhHK4Y1VIhsHEtQlij5d9pI=
 github.com/alexsergivan/transliterator v1.0.1/go.mod h1:0IrumukulURJ4PD0z6UcdJKP2job1DYDhnHAP5y+5pE=
 github.com/bits-and-blooms/bitset v1.12.0/go.mod h1:7hO7Gc7Pp1vODcmWvKMRA9BNmbv6a/7QIWpPxHddWR8=
@@ -51,6 +53,8 @@ github.com/crediterra/money v0.3.0 h1:dHWEZhkMGGxkHTAbGQOaeg8eYbL8qJSCgcqdOTbNg2
 github.com/crediterra/money v0.3.0/go.mod h1:0BT7dzPk4Wv+Wi8J6sxlFbCknYioLWVVQM4ciMJh6TI=
 github.com/dal-go/dalgo v0.40.2 h1:J2wlA6SSF9FmmJ3PkJC6GWAp+kHj3mGyrvybNrgGQLo=
 github.com/dal-go/dalgo v0.40.2/go.mod h1:+4W48ajQr3fm7hO7J362gRs72o8Y7E0TBfekJFvP/2Y=
+github.com/dal-go/dalgo v0.41.1 h1:M3j/oMqE3MQD2l170X04IZBn2MHenrMKL76ma7IXVYM=
+github.com/dal-go/dalgo v0.41.1/go.mod h1:c9vfeYEwt1Emqa9sntGvZlFSLWOfyRAcngefNrk3AoI=
 github.com/dal-go/dalgo2firestore v0.6.36 h1:Mw3yjVBH1zhZlzN38uM+iXBalhCfJUV+jMAxQtVCEmA=
 github.com/dal-go/dalgo2firestore v0.6.36/go.mod h1:6XyVemYYVPUxi92O9VcYEbeWcjV9HUzEtooGrVhlSSs=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -111,6 +115,8 @@ github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRI
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/sneat-co/sneat-core-modules v0.38.16 h1:/c02Y34vIVBIQ0RC9bsWkTZoJG0pMtmNCcPkzEs0gk4=
 github.com/sneat-co/sneat-core-modules v0.38.16/go.mod h1:PiLidXhN3g2uAWWfXqnXiq/HDIUl+hZ9oWFXNIz5ZJM=
+github.com/sneat-co/sneat-core-modules v0.38.18 h1:P5uqcx+lx+AoLnYSgBVf5AwlGrsP/zpKasvhyWq8Ahk=
+github.com/sneat-co/sneat-core-modules v0.38.18/go.mod h1:lXUW7zOZ+EI7Vp6EWqAkvjROkuDtZu8O/+Dpet8Ke1w=
 github.com/sneat-co/sneat-go-backend v0.58.9 h1:kTWWdeeOntywfqt1Fu7VRMc5fDxc31l6J3rLUNH5E8c=
 github.com/sneat-co/sneat-go-backend v0.58.9/go.mod h1:MXk7Rdg7mr2QEyquaB8+IzH2Xyx2yEnIfRB8damHsPg=
 github.com/sneat-co/sneat-go-core v0.54.8 h1:wreTghGELAohf1S3uU8jbnGTqoveo2onvzZW4h46KB0=
