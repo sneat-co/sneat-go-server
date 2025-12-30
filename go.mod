@@ -8,7 +8,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sneat-co/sneat-core-modules v0.38.18
 	github.com/sneat-co/sneat-go-backend v0.58.9
-	github.com/sneat-co/sneat-go-core v0.54.9
+	github.com/sneat-co/sneat-go-core v0.54.10
 	github.com/sneat-co/sneat-go-firebase v0.7.37
 	github.com/strongo/delaying v0.2.1
 	github.com/strongo/logus v0.4.0
