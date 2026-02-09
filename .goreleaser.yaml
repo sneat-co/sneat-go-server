@@ -48,5 +48,5 @@ checksum:
 
 release:
   github:
-    owner: sneat-go
+    owner: sneat-co
     name: sneat-go-server
