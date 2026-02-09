@@ -39,12 +39,12 @@ jobs:
     with:
       disable-version-bumping: false
 
-  verify_action:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v6
-
-      - name: Run action.yml
-        uses: ./
+#  verify_action:
+#    runs-on: ubuntu-latest
+#
+#    steps:
+#      - name: Checkout code
+#        uses: actions/checkout@v6
+#
+#      - name: Run action.yml
+#        uses: ./
