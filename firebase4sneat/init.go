@@ -2,8 +2,8 @@ package firebase4sneat
 
 import (
 	"github.com/sneat-co/sneat-core-modules/auth/token4auth"
-	"github.com/sneat-co/sneat-go-firebase/facade2firebase"
-	"github.com/sneat-co/sneat-go-firebase/sneatfb"
+	"github.com/sneat-co/sneat-go-server/facade2firebase"
+	"github.com/sneat-co/sneat-go-server/sneatfb"
 )
 
 func InitFirebase() {
