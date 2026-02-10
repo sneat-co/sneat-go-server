@@ -5,25 +5,21 @@ import (
 	"strings"
 )
 
+const (
+	firebaseProjEnvVarName   = "FIREBASE_PROJECT_ID"
+	gaeApplicationEnvVarName = "GAE_APPLICATION"
+)
+
 func GetFirebaseProjectID() string {
-	if fbProjID := os.Getenv("FIREBASE_PROJECT_ID"); fbProjID != "" {
+	if fbProjID := os.Getenv(firebaseProjEnvVarName); fbProjID != "" {
 		return fbProjID
 	}
-	for _, v := range os.Environ() {
-		if strings.HasPrefix(v, "GAE_APPLICATION=") {
-			if strings.HasSuffix(v, "sneat-team") {
-				return "sneat-team"
-			}
-			if strings.HasSuffix(v, "sneat-eu") {
-				return "sneat-eu"
-			}
-			if strings.HasSuffix(v, "sneatapp") {
-				return "sneatapp"
-			}
-			if strings.HasSuffix(v, "sneat-eur3-1") {
-				return "sneat-eur3-1"
-			}
+	if gapAppID := os.Getenv(gaeApplicationEnvVarName); gapAppID != "" {
+		i := strings.Index(gapAppID, "~")
+		if i >= 0 {
+			return gapAppID[i+1:]
 		}
+		return gapAppID
 	}
-	return "demo-local-sneat-app"
+	return "demo-sneat-app"
 }

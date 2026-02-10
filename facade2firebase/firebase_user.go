@@ -2,11 +2,13 @@ package facade2firebase
 
 import (
 	"context"
-	"firebase.google.com/go/v4/auth"
 	"fmt"
+
+	"firebase.google.com/go/v4/auth"
 	"github.com/sneat-co/sneat-go-core/dto4auth"
 )
 
+// CreateFirebaseUser - TODO: Use or document external package where is used
 func CreateFirebaseUser(ctx context.Context, userToCreate dto4auth.DataToCreateUser) (uid string, err error) {
 	displayName := userToCreate.Names.FirstName
 	if userToCreate.Names.LastName != "" {
@@ -45,6 +47,7 @@ func CreateFirebaseUser(ctx context.Context, userToCreate dto4auth.DataToCreateU
 	return
 }
 
+// DeleteFirebaseUser - TODO: Use or document external package where is used
 func DeleteFirebaseUser(ctx context.Context, uid string) (err error) {
 	var fbAuthClient *auth.Client
 	if fbAuthClient, err = getFirebaseAuthClient(ctx); err != nil {

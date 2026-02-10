@@ -1,21 +1,20 @@
 package sneatfb
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestInitFirebaseForSneat(t *testing.T) {
 	t.Run("panic_on_empty_project_id", func(t *testing.T) {
 		assert.Panics(t, func() {
-			InitFirebaseForSneat("", "dbName")
+			InitFirebaseForSneat("", "db-id")
 		})
 	})
-	// TODO: Fix to pass in GitHub Actions
-	//t.Run("empty_dbName", func(t *testing.T) {
-	//	InitFirebaseForSneat("projectID", "")
-	//	db, err := facade.GetSneatDB(context.Background())
-	//	assert.Nil(t, err)
-	//	assert.Equal(t, "default", db.ID())
-	//})
+	t.Run("panic_on_empty_db_id", func(t *testing.T) {
+		assert.Panics(t, func() {
+			InitFirebaseForSneat("project-id", "")
+		})
+	})
 }
