@@ -317,6 +317,47 @@ graph TB
     style TestFB fill:#ffd54f
 ```
 
+### Running Tests
+
+Test files follow Go conventions with the `_test.go` suffix and are located alongside the code they test:
+
+```
+firebase4sneat/init_test.go
+sneatfb/auth_firebase_test.go
+sneatfb/context_firebase_test.go
+sneatfb/context_test.go
+sneatfb/firebase_token_test.go
+sneatfb/get_fb_project_id_test.go
+sneatfb/init_test.go
+sneatserver/init_server_test.go
+main_test.go
+```
+
+To run all tests:
+```bash
+go test ./...
+```
+
+To run tests for a specific package:
+```bash
+go test ./sneatfb
+go test ./firebase4sneat
+```
+
+To run tests with coverage:
+```bash
+go test -cover ./...
+```
+
+### Continuous Integration
+
+Tests are automatically run on every push and pull request via GitHub Actions (`.github/workflows/ci.yml`). The CI pipeline uses the [strongo/go-ci-action](https://github.com/strongo/go-ci-action) workflow which includes:
+- Running all tests
+- Code quality checks
+- Building binaries
+- Version bumping (on main branch)
+- Release creation via GoReleaser
+
 ## Summary
 
 The Sneat Go Server architecture achieves several key goals:
