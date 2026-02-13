@@ -41,6 +41,7 @@ jobs:
   #      run-goreleaser: true
 
   release_workflow:
+    needs: [ strongo_workflow ]
     uses: strongo/go-ci-action/.github/workflows/release.yml@main
 
 #  release:
