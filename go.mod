@@ -13,7 +13,7 @@ require (
 	github.com/dal-go/dalgo2firestore v0.6.46
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sneat-co/sneat-core-modules v0.38.23
-	github.com/sneat-co/sneat-go-backend v0.58.9
+	github.com/sneat-co/sneat-go-backend v0.58.10
 	github.com/sneat-co/sneat-go-core v0.54.11
 	github.com/stretchr/testify v1.11.1
 	github.com/strongo/delaying v0.2.1

@@ -116,8 +116,8 @@ github.com/rogpeppe/go-internal v1.14.1 h1:UQB4HGPB6osV0SQTLymcB4TgvyWu6ZyliaW0t
 github.com/rogpeppe/go-internal v1.14.1/go.mod h1:MaRKkUm5W0goXpeCfT7UZI6fk/L7L7so1lCWt35ZSgc=
 github.com/sneat-co/sneat-core-modules v0.38.23 h1:ewhhrwQhL6qfKb9cZ4oTEwVYeiYEoTjNEJHEtkV1lnM=
 github.com/sneat-co/sneat-core-modules v0.38.23/go.mod h1:wJjWKP7DHz8ozE788YJdYpKBS0hDEQvkVTrYdz5UqPU=
-github.com/sneat-co/sneat-go-backend v0.58.9 h1:kTWWdeeOntywfqt1Fu7VRMc5fDxc31l6J3rLUNH5E8c=
-github.com/sneat-co/sneat-go-backend v0.58.9/go.mod h1:MXk7Rdg7mr2QEyquaB8+IzH2Xyx2yEnIfRB8damHsPg=
+github.com/sneat-co/sneat-go-backend v0.58.10 h1:/uyAt+mnryX8QffIn8qfjTzUNKpWTSCucV6qiRb1pBQ=
+github.com/sneat-co/sneat-go-backend v0.58.10/go.mod h1:PyMHMADuanVuxBC2pTV4dPe7blwphOK8pVyKfFoXFWc=
 github.com/sneat-co/sneat-go-core v0.54.11 h1:oaUFmy70we5BBlCKLHC/tfVnT/sP9TRXa6NO1upV5kI=
 github.com/sneat-co/sneat-go-core v0.54.11/go.mod h1:/FgXylNgJDXlhAIWoB06JsW2TWsf7pJkYagwvDXYapc=
 github.com/spiffe/go-spiffe/v2 v2.6.0 h1:l+DolpxNWYgruGQVV0xsfeya3CsC7m8iBzDnMpsbLuo=
