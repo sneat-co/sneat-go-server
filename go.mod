@@ -2,7 +2,7 @@ module github.com/sneat-co/sneat-go-server
 
 go 1.24.11
 
-toolchain go1.25.7
+toolchain go1.26.0
 
 //replace github.com/sneat-co/sneat-core-modules => ../sneat-core-modules
 
