@@ -38,7 +38,10 @@ jobs:
 
     with:
       disable-version-bumping: false
-      run-goreleaser: true
+  #      run-goreleaser: true
+
+  release_workflow:
+    uses: strongo/go-ci-action/.github/workflows/release.yml@main
 
 #  release:
 #    needs: strongo_workflow
