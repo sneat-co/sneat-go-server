@@ -44,26 +44,3 @@ jobs:
     if: github.ref == 'refs/heads/main'  # run only on main branch
     uses: strongo/go-ci-action/.github/workflows/release.yml@main
     needs: [ strongo_workflow ]
-
-#  release:
-#    needs: strongo_workflow
-#    runs-on: ubuntu-latest
-#    steps:
-#      - uses: actions/checkout@v6
-#      - uses: goreleaser/goreleaser-action@v6
-#        with:
-#          version: v2
-#          args: release --clean
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#          HOMEBREW_FILETUG_GITHUB_TOKEN: ${{ secrets.HOMEBREW_FILETUG_GITHUB_TOKEN }}
-
-#  verify_action:
-#    runs-on: ubuntu-latest
-#
-#    steps:
-#      - name: Checkout code
-#        uses: actions/checkout@v6
-#
-#      - name: Run action.yml
-#        uses: ./
