@@ -41,6 +41,7 @@ jobs:
 
   release_workflow:
     name: Release
+    if: github.ref == 'refs/heads/main'  # run only on main branch
     uses: strongo/go-ci-action/.github/workflows/release.yml@main
     needs: [ strongo_workflow ]
 
