@@ -28,6 +28,7 @@ on:
 jobs:
 
   strongo_workflow:
+    name: Build & Test
     permissions:
       contents: write
     uses: strongo/go-ci-action/.github/workflows/workflow.yml@main
@@ -41,6 +42,7 @@ jobs:
       # run-goreleaser: true
 
   release_workflow:
+    name: Release
     uses: strongo/go-ci-action/.github/workflows/release.yml@main
     needs: [ strongo_workflow ]
 
