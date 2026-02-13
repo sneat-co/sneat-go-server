@@ -1,7 +1,8 @@
-name: Go CI
+name: CI
 
 on:
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -33,14 +34,12 @@ jobs:
 
     secrets:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # gh_token: ${{ secrets.GH_PAT_READWRITE_REPOS }}
 
     with:
       disable-version-bumping: true
-      # run-goreleaser: true
 
-  release_workflow:
-    name: Release
-    if: github.ref == 'refs/heads/main'  # run only on main branch
-    uses: strongo/go-ci-action/.github/workflows/release.yml@main
-    needs: [ strongo_workflow ]
+#  release_workflow:
+#    name: Release
+#    if: github.ref == 'refs/heads/main'  # run only on main branch
+#    uses: strongo/go-ci-action/.github/workflows/release.yml@main
+#    needs: [ strongo_workflow ]
