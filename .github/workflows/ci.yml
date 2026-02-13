@@ -37,7 +37,7 @@ jobs:
     #      gh_token: ${{ secrets.GH_PAT_READWRITE_REPOS }}
 
     with:
-      disable-version-bumping: false
+      disable-version-bumping: true
   #      run-goreleaser: true
 
   release_workflow:
