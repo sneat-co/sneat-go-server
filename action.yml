@@ -1,5 +1,5 @@
 name: 'Serve sneat-go-server' # Frontend uses this GitHub action for end-to-end testing
-
+# TODO: Needs documentation on how to use
 description: 'Starts a backend server for end-to-end testing of sneat.app in CI-build pipeline'
 
 runs:
@@ -13,7 +13,7 @@ runs:
       with:
         cache: false
         go-version: 1.25.7
-#        cache-dependency-path: "**/*.sum"
+    #        cache-dependency-path: "**/*.sum"
 
 
     - run: go get ./...
@@ -28,9 +28,9 @@ runs:
       shell: bash
       working-directory: "${{ github.action_path }}"
       run: ./serve_gae.sh & sleep 1
-#      run: |
-#        ./serve_gae.sh &
-#        sleep 1
+    #      run: |
+    #        ./serve_gae.sh &
+    #        sleep 1
 
     - name: "Check if sneat-go-server is running"
       shell: sh

@@ -13,8 +13,7 @@ on:
       - '*.sh'
       - 'action.yml'
       - '**/*.go'
-      - 'scripts/**'
-      - '.github/**'
+      - '.github/workflows/**.yml'
   pull_request:
     branches:
       - '**'
@@ -23,23 +22,20 @@ on:
       - '*.sh'
       - 'action.yml'
       - '**/*.go'
-      - 'scripts/**'
-      - '.github/**'
+      - '.github/workflows/**.yml'
 
 jobs:
 
   strongo_workflow:
     name: Build & Test
     uses: strongo/go-ci-action/.github/workflows/workflow.yml@main
-
+    with:
+      disable-version-bumping: true
     secrets:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    with:
-      disable-version-bumping: true
-
-#  release_workflow:
-#    name: Release
-#    if: github.ref == 'refs/heads/main'  # run only on main branch
-#    uses: strongo/go-ci-action/.github/workflows/release.yml@main
-#    needs: [ strongo_workflow ]
+  release_workflow:
+    name: Release
+    if: github.ref == 'refs/heads/main'  # run only on main branch
+    uses: strongo/go-ci-action/.github/workflows/release.yml@main
+    needs: [ strongo_workflow ]
