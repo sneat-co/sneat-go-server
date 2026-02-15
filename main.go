@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/sneat-co/sneat-go-backend/src/sneatgae/sneatgaeapp"
 	"github.com/sneat-co/sneat-go-core/emails/email2writer"
+	"github.com/sneat-co/sneat-go-server/sneatgaeapp"
 	"github.com/sneat-co/sneat-go-server/sneatserver"
 	"github.com/strongo/delaying"
 	"github.com/strongo/logus"

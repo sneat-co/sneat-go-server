@@ -5,15 +5,16 @@ go 1.24.11
 toolchain go1.26.0
 
 //replace github.com/sneat-co/sneat-core-modules => ../sneat-core-modules
+//replace github.com/sneat-co/sneat-go-backend => ../sneat-go-backend
 
 require (
 	cloud.google.com/go/firestore v1.21.0
 	firebase.google.com/go/v4 v4.19.0
 	github.com/dal-go/dalgo v0.41.1
-	github.com/dal-go/dalgo2firestore v0.6.46
+	github.com/dal-go/dalgo2firestore v0.6.47
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sneat-co/sneat-core-modules v0.38.23
-	github.com/sneat-co/sneat-go-backend v0.58.10
+	github.com/sneat-co/sneat-go-backend v0.58.12
 	github.com/sneat-co/sneat-go-core v0.54.11
 	github.com/stretchr/testify v1.11.1
 	github.com/strongo/delaying v0.2.1
@@ -23,7 +24,7 @@ require (
 require (
 	cel.dev/expr v0.25.1 // indirect
 	cloud.google.com/go v0.123.0 // indirect
-	cloud.google.com/go/auth v0.18.1 // indirect
+	cloud.google.com/go/auth v0.18.2 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.8 // indirect
 	cloud.google.com/go/compute/metadata v0.9.0 // indirect
 	cloud.google.com/go/iam v1.5.3 // indirect
